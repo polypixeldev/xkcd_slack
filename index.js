@@ -243,7 +243,7 @@ getComicByNames();
 					"type": "section",
 					"text": {
 						"type": "mrkdwn",
-						"text": `<https://xkcd.com/${num}|on xkcd> | <https://explainxkcd.com/${num}|on explainxkcd>`,
+						"text": `<https://xkcd.com/${randomComic}|on xkcd> | <https://explainxkcd.com/${randomComic}|on explainxkcd>`,
 					}
 				},
 				{
